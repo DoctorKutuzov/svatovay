@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @svatovay
-- 👀 I’m interested in big data, data science.
-- 🌱 I’m currently learning python, django, javascript.
-- 💞️ I’m looking to collaborate on your big data project.
+- 👀 I interested in big data, data science.
+- 🌱 My stack: fastapy, sqlalchemy, pydantic, django, socket, requests, etc.
 - 📫 How to reach me telegram @svatovay.
 
 <!---
