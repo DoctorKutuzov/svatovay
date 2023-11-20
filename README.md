@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @svatovay
 - 👀 I interested in big data, data science.
-- 🌱 My stack: fastapy, sqlalchemy, pydantic, django, socket, requests, etc.
+- 🌱 My stack: fastapi, sqlalchemy, pydantic, django, socket, requests, etc.
 - 📫 How to reach me telegram @svatovay.
 
 <!---
